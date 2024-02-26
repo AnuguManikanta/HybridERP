@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Supplier-00000001608    Qedge]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-02-24T14:30:40 IST" name="Default suite" finished-at="2024-02-24T14:31:29 IST" duration-ms="48947">
+    <groups>
+    </groups>
+    <test started-at="2024-02-24T14:30:40 IST" name="Default test" finished-at="2024-02-24T14:31:29 IST" duration-ms="48947">
+      <class name="driverFactory.AppTest">
+        <test-method signature="kickstart()[pri:0, instance:driverFactory.AppTest@212b5695]" started-at="2024-02-24T14:30:40 IST" name="kickstart" finished-at="2024-02-24T14:31:29 IST" duration-ms="48879" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier-00000001608    Qedge]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickstart -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
